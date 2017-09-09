@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/linerlayoutH"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="LinearLayout Horizontal" />
+
+    <item
+        android:id="@+id/lineralayoutV"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="LinearLayout Vertical" />
+
+    <item
+        android:id="@+id/tablelayout"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="TableLayout" />
+
+    <item
+        android:id="@+id/relativelayout"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="RelativeLayout" />
+
+    <item
+        android:id="@+id/framelayout"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="FrameLayout" />
+
+
+</menu>
